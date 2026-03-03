@@ -1,4 +1,3 @@
-**Contacts**
 📍 Oxford, UK | ✉️ [Email Me](mailto:vasileios.kourentzis@kellogg.ox.ac.uk) | 🔗 [LinkedIn]([https://www.linkedin.com/in/vkourentz]) | 📄 [CV](./Vasilis_Kourentzis_AI_Engineer.pdf)
 
 
