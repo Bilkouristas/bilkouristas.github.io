@@ -1,3 +1,21 @@
+# Vasilis Kourentzis
+**Medical AI & Deep Learning Engineer**
+📍 Oxford, UK | ✉️ [Email Me](mailto:your.email@example.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | 📄 [Download CV](./Vasilis_Kourentzis_AI_Engineer.pdf)
+
+---
+
+## Portfolio Overview
+A collection of end-to-end machine learning projects focused on clinical data, computer vision, and 3D medical image segmentation. 
+
+**Tech Stack:** PyTorch, MONAI, TensorFlow, Python, C++, NumPy, Pandas
+**Medical Data Processing:** DICOM, NIfTI, Hounsfield Unit (HU) windowing, 3D Voxel manipulation
+
+---
+
+
+
+
+
 # Medical AI & Deep Learning Portfolio 🧬💻
 
 A collection of end-to-end machine learning projects focused on clinical data, computer vision, and 3D medical image segmentation. 
