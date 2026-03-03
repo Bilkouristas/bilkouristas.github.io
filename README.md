@@ -1,6 +1,9 @@
 # Vasilis Kourentzis
 **Medical AI & Deep Learning Engineer**
-📍 Oxford, UK | ✉️ [Email Me](mailto:vasileios.kourentzis@kellogg.ox.ac.uk) | 🔗 [LinkedIn]([[https://www.linkedin.com/in/vkourentz] | 📄 [Download CV](./Vasilis_Kourentzis_AI_Engineer.pdf)
+📍 Oxford, UK | ✉️ [Email Me](mailto:vasileios.kourentzis@kellogg.ox.ac.uk) | 🔗 [LinkedIn]([https://www.linkedin.com/in/vkourentz]) | 📄 [CV](./Vasilis_Kourentzis_AI_Engineer.pdf)
+
+<img src="profile.jpg" alt="Vasilis Kourentzis" width="120" align="left" style="border-radius: 50%;">
+
 
 ---
 
