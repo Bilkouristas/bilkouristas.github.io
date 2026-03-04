@@ -1,0 +1,46 @@
+
+---
+---
+@import "{{ site.theme }}";
+
+/* General background and text */
+body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+/* Ensure the main container blends in */
+.wrapper {
+  background-color: #121212;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6, strong {
+  color: #ffffff !important;
+}
+
+/* Links (Make them lighter so they are visible on dark background) */
+a {
+  color: #66b3ff !important;
+}
+a:hover {
+  color: #99ccff !important;
+}
+
+/* Tables and borders */
+table th, table td, hr {
+  border-color: #333333 !important;
+}
+
+/* Code blocks / Inline code */
+code, pre {
+  background-color: #1e1e1e !important;
+  color: #cccccc !important;
+  border-color: #333333 !important;
+}
+
+/* The header container for the Minimal theme */
+header {
+  background-color: #1a1a1a !important;
+  border-bottom-color: #333333 !important;
+}
