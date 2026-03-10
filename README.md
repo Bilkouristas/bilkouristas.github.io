@@ -1,4 +1,4 @@
-📍 Oxford, UK | ✉️ [Email](mailto:vasileios.kourentzis@kellogg.ox.ac.uk) | 🔗 [LinkedIn](https://www.linkedin.com/in/vkourentz) | 📄 [CV](./CV_main.pdf)
+📍 Oxford, UK | ✉️ [Email](mailto:vasileios.kourentzis@kellogg.ox.ac.uk) | 🔗 [LinkedIn](https://www.linkedin.com/in/vkourentz) | 📄 [CV](./CV_main_ai.pdf)
 
 ---
 
