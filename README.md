@@ -15,7 +15,7 @@ A collection of end-to-end machine learning projects focused on clinical data, c
 * **Tools:** PyTorch, MONAI, MSD Brain Tumor Dataset.
 * **Highlights:** Processed 3D volumes, built a medical image data pipeline, and visualized AI predictions against ground-truth clinical masks across Axial, Coronal, and Sagittal planes.
 * [View Project ➡️]([./3D_Brain_Tumor_Segmentation_MRI.ipynb](https://github.com/bilkouristas/bilkouristas.github.io/blob/master/3D_Brain_Tumor_Segmentation_MRI.ipynb))
-* 
+  
 ![alt text](brain-segmentation-output.png)
 
 ## 2. Spleen Volume Screener (CT)
