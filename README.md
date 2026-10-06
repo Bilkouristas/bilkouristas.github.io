@@ -14,7 +14,7 @@ A collection of end-to-end machine learning projects focused on clinical data, c
 * **Goal:** Automated segmentation of active brain tumors from 3D MRI scans (T1ce) using Deep Learning.
 * **Tools:** PyTorch, MONAI, MSD Brain Tumor Dataset.
 * **Highlights:** Processed 3D volumes, built a medical image data pipeline, and visualized AI predictions against ground-truth clinical masks across Axial, Coronal, and Sagittal planes.
-* [View Project ➡️](https://github.com/bilkouristas/bilkouristas.github.io/blob/master/3D_Brain_Tumor_Segmentation_MRI.ipynb)])
+* [View Project ➡️](https://github.com/bilkouristas/bilkouristas.github.io/blob/master/3D_Brain_Tumor_Segmentation_MRI.ipynb)
   
   
 ![alt text](brain-segmentation-output.png)
